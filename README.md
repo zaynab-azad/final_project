@@ -27,5 +27,5 @@ please make sure to create ***top admin*** manually, because if you don't do tha
 						"password":  "...",
 						``
 		 }  
-### make sure to use [***mongodb***](https://www.mongodb.com/try/download/compass) compass to view your data
+### make sure to use [***mongodb compass***](https://www.mongodb.com/try/download/compass)  to view your data
  
